@@ -10,7 +10,7 @@
 
 * * *
 
-##환경
+## 환경
 
 Windows 10
 
@@ -28,7 +28,7 @@ Encoding : UTF-8
 
 
 * * *
-##구현 화면
+## 구현 화면
 
 ![슬라이드1](https://user-images.githubusercontent.com/92881331/143689400-3ad4c951-83be-482c-9cad-71f6529e0f0b.PNG)
 ![슬라이드2](https://user-images.githubusercontent.com/92881331/143689401-38df9efa-b340-469e-8cfa-8bcbed713ae7.PNG)
