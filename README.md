@@ -1,13 +1,14 @@
-# Spring boot - ShoppingMall Mini Project
-[JAVA Spring boot – 쇼핑몰 사이트 제작] 포트폴리오
+# 프로젝트 내용
 
+
+프로젝트 : [JAVA Spring boot – 쇼핑몰 사이트 제작] 포트폴리오
 
 프로젝트 기간 : 21.09.23 ~ 21.09.28
 
 프로젝트 수행자 : 박소영(pubparksy@gmail.com)
 
 
-# 환경
+## 환경
 Windows 10
 
 Eclipse
@@ -22,7 +23,7 @@ Encoding : UTF-8
 
 
 
-# 구현 화면
+## 구현 화면
 ![슬라이드1](https://user-images.githubusercontent.com/92881331/143689400-3ad4c951-83be-482c-9cad-71f6529e0f0b.PNG)
 ![슬라이드2](https://user-images.githubusercontent.com/92881331/143689401-38df9efa-b340-469e-8cfa-8bcbed713ae7.PNG)
 ![슬라이드3](https://user-images.githubusercontent.com/92881331/143689402-92a116f9-0957-4634-a888-a03ca7e79c59.PNG)
