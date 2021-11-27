@@ -3,7 +3,8 @@
 
 
 프로젝트 기간 : 21.09.23 ~ 21.09.28
-프로젝트 수행자 : 박소영(pybparksy@gmail.com)
+
+프로젝트 수행자 : 박소영(pubparksy@gmail.com)
 
 # 환경
 Windows 10
