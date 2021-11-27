@@ -1,30 +1,22 @@
 # 프로젝트 내용 - 환경, 구현화면
 
 
-프로젝트 : [JAVA Spring boot – 쇼핑몰 사이트 제작] 포트폴리오
+프로젝트 : [JAVA Spring boot – 쇼핑몰 사이트 제작]   
+프로젝트 기간 : 21.09.23 ~ 21.09.28   
+프로젝트 수행자 : 박소영(pubparksy@gmail.com)      
 
-프로젝트 기간 : 21.09.23 ~ 21.09.28
-
-프로젝트 수행자 : 박소영(pubparksy@gmail.com)
-
-
-* * *
-
+   
+   
+   
 ## 환경
 
-Windows 10
-
-JAVA 11
-
-Eclipse
-
-Apache Tomcat
-
-STS Tool
-
-Oracle DB
-
-Encoding : UTF-8
+Windows 10   
+JAVA 11   
+Eclipse   
+Apache Tomcat   
+STS Tool   
+Oracle DB   
+Encoding : UTF-8   
 
 
 * * *
